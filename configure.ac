@@ -1,6 +1,6 @@
 AC_INIT([sugar-datastore],[0.121],[],[sugar-datastore])
 
-AC_PREREQ([2.71])
+AC_PREREQ([2.72])
 
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_SRCDIR([configure.ac])
